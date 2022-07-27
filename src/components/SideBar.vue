@@ -48,7 +48,7 @@ export default {
 
 <style scoped>
 #side-bar{
-    width: 400px;
+    width: 300px;
 }
 
 #menu{
@@ -70,7 +70,9 @@ export default {
     align-items: center;
     padding: 10px 8%;
 }
-
+i{
+    transform: scale(1.25);
+}
 .menu-item i{
     margin-right: 15px;
 }

@@ -14,6 +14,6 @@ import Main from './components/Main.vue';
 <style>
 #wrapper {
   display: flex;
-  width: 800px;
+  width: 1200px;
 }
 </style>
