@@ -6,6 +6,8 @@
   --text-side-color: #bfbfbf;
   --bg-side-menu-color: #2a36a4;
   --bg-main-color: #f5f5fb;
+  --text-h3-color: rgba(56, 47, 144, 0.6);
+  --text-h2-color: #9FA2B4;
   color-scheme: light dark;
   color: rgba(255, 255, 255, 0.87);
   background-color: #242424;
