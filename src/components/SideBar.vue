@@ -49,6 +49,7 @@ export default {
 <style scoped>
 #side-bar{
     width: 300px;
+    padding-top: 80px;
 }
 
 #menu{
