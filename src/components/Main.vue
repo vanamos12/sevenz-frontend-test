@@ -94,6 +94,7 @@ export default {
             var self =this;
             let bodyFormData = new FormData(document.getElementById('form'))
             bodyFormData.append("developer", "Developer");
+            bodyFormData.append("patient", 3);
             axiosClient.post('/investigations', bodyFormData, {
             headers: {
                 //'Content-Type': 'multipart/form-data',

@@ -29,6 +29,7 @@ export default {
         z-index: 10;
         display: grid;
         place-items: center;
+        position:absolute;
     }
 
     .header h2{
